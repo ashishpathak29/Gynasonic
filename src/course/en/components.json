@@ -1,0 +1,3286 @@
+[   
+     
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Course Introduction and Objectives",
+        "displayTitle": "<h5 class='custom_heading'><b>Course Introduction and Objectives</b></h5>",
+        "body": "<p class='text-center'>Welcome to the e-learning course <b>‘Sonata® System Physician and Staff Training.’</b> This course is designed for training Physicians and Support Staff.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Sonata® System Introduction",
+                "body": "<p>The Sonata® System: Sonography-Guided Transcervical Fibroid Ablation:</p><ul><li>Provides Radiofrequency Ablation (RFA) of uterine fibroids using a transcervical approach without incisions or uterine distension. The Sonata Treatment Device combines an Intrauterine Ultrasound (IUUS) Probe with an RFA handpiece to create a compact delivery system for sonography-guided RF ablation.</li><li>Integrates treatment planning, targeting, and ablation of fibroids.</li><li>Enables the clinician to deliver radiofrequency energy to fibroid tissue resulting in thermal fixation and coagulative necrosis of the tissue. This can result in fibroid volume reduction and relief of symptoms.</li><li>Is comprised of durable medical equipment, software, and various disposable and reusable components.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-1/slider01.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-1/slider01.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Course Objectives",
+                "body": "<p>By the end of this course, you should be able to:</p><ul><li>Describe the intended use of the Sonata® System and its components.</li><li>List the contraindications of the Sonata® System.</li><li>Describe the basic uterine anatomy as visualized with IUUS imaging.</li><li>Demonstrate understating of the positioning of the SMART Guide<sup>TM</sup> (<b>S</b>etting <b>M</b>argins for <b>A</b>blation in <b>R</b>eal <b>T</b>ime) and required safety checks performed prior to delivery of RF energy.</li><li>Describe the post-procedure procedure.</li><li>Describe the RFA Handpiece controls and function of each control.</li><li>Describe the sequence of using the controls when targeting.</li><li>Describe the sequence of using the controls when retracting the RFA handpiece.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-1/slider02.png",
+                    "alt": ""
+					
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-1/slider02.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+   
+    {
+        "_id": "c-01_01-next",
+        "_parentId": "b-01_01-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+        "_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-10-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+  },
+     
+    {
+        "_id": "c-10-01",
+        "_parentId": "b-10-01",
+        "_classes": "hotgraphic-popclass",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Fibroid Types and Symptoms",
+        "displayTitle": "<h5 class='custom_heading'>Fibroid Types and Symptoms</h5>",
+        "body": "<p>The Sonata® System is intended for diagnostic intrauterine imaging and transcervical treatment of symptomatic uterine fibroids, including those <br/>associated with heavy menstrual bleeding.</p><p>Fibroids are broadly thought of in terms of location. Each category of fibroids is associated with common symptoms.</p>",
+        "mobileBody": "",
+        "instruction": "<div class='instruction_txt'>Select each plus sign to find out more.</div>",
+        "mobileInstruction": "",
+        "_setCompletionOn": "inview",
+        "_useGraphicsAsPins": false,
+        "_canCycleThroughPagination": false,
+        "_hidePagination": true,
+        "_graphic": {
+            "src": "course/en/images/menu-images/Img1.png",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "Submucosal (20%):",
+                "body": "<p>Fibroids that grow partially or primarily within the endometrial cavity are called “submucosal” or “submucous” and account for approximately 20% of all fibroids. These are the fibroids that are felt to be most responsible for abnormal uterine bleeding and may affect fertility. </p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/3-.jpg",
+                    "title": "",
+                    "_classes": "",
+                    "imgName":"",
+                    "imgText":""
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 27.5,
+                "_left": 60
+			},
+            {
+                "title": "Intramural (60%): ",
+                "body": "<p>Approximately 60% of fibroids are intramural, growing within the myometrium. These may contribute also to abnormal uterine bleeding, and when larger or numerous, can contribute to bulk symptoms.</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/menu-images/1-img-diagram.png",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 30,
+                "_left": 19
+			},
+            {
+                "title": "Subserosal (20%):",
+                "body": "<p>Approximately 20% of are subserosal. When these are large or numerous, they may be associated with bulk symptoms like dyspareunia, pressure, dysuria, and others.</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/2-.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 47,
+                "_left": 57
+			}
+		],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+     {
+        "_id": "c-10-02",
+        "_parentId": "b-10-02",
+        "_classes": "hotgraphic-popclass",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Fibroid Types and Sizes",
+        "displayTitle": "<h5 class='custom_heading'>Fibroid Types and Sizes</h5>",
+        "body": "<p>PALM-COEIN Classification was developed by the Menstrual Disorders Committee of the International Federation of Gynecology and Obstetrics (FIGO) to create a uniform classification of fibroid types.</p><p>The PALM-COEIN Classification FIGO chart divides fibroids into types or classifications. </p>",
+        "mobileBody": "",
+        "instruction": "<div class='instruction_txt'>Select the numbers to find out more.</div><div class='extra-sectionclass'>The Sonata® System is designed to ablate or partially ablate the fibroids in <strong>GREEN</strong>.</div>",
+        "mobileInstruction": "",
+        "_setCompletionOn": "allItems",
+        "_useGraphicsAsPins": false,
+        "_canCycleThroughPagination": false,
+        "_hidePagination": true,
+        "_graphic": {
+            "src": "course/en/images/mod-2/diagram.png",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "Submucosal",
+                "body": "<p><50% Intramural</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/1.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+                    "imgName":"",
+                    "imgText":""
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 26.35,
+                "_left": 41.9
+			},
+            {
+                "title": "Submucosal",
+                "body": "<p>&#8805;50% Intramural</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/2.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 46,
+                "_left": 32.18
+			},
+            {
+                "title": "Transmural",
+                "body": "<p>Submucosal and subserosal, each with less than half the diameter in the endometrial and peritoneal cavities respectively.</p><p class='custom-space'><b>Note:</b> Two numbers are listed separated by a dash. By convention, the first refers to the relationship with the endometrium while the second refers to the relationship to the serosa.</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/2-5.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 14,
+                "_left": 7.8
+			},
+            {
+               "title": "Intramural",
+                "body": "<p>Contacts endometrium; 100% Intramural</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/3.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 11,
+                "_left": 26.5
+			},
+            {
+                "title": "Intramural",
+                "body": "<p>Intramural</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/4.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 13,
+                "_left": 38.5
+			},
+            {
+                "title": "Subserosal",
+                "body": "<p>Subserosal, &#8805;50% Intramural</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/5.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 60.2,
+                "_left": 22
+			},
+            {
+                "title": "Subserosal",
+                "body": "<p>Subserosal, <50% Intramural</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/6.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 48,
+                "_left": 4
+			},
+            {
+                "title": "Submucosal",
+                "body": "<p>Pedunculated intracavity</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/0.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 33,
+                "_left": 21.5
+			},
+            {
+               
+                 "title": "Subserosal",
+                "body": "<p>Subserosal pedunculated</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/7.mobile.jpg",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 71.5,
+                "_left": 42.2
+			}
+		],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+        "_id": "c-10-03",
+        "_parentId": "b-10-03",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Sonata® System Contraindications",
+        "displayTitle":"<h5 class='custom_heading'><b>Sonata® System Contraindications</b></h5>",
+        "body":"<p>As with any procedure, the clinician should understand the Sonata® System Contraindications.</p><ul><li>Current pregnancy</li><li>Presence of one or more intratubal implants for sterilization</li><li>Active pelvic infection</li><li>Suspected gynecologic malignancy/premalignancy</li><li>Intrauterine Device (IUD) unless removed prior to procedure</li></ul><p class='extra-sectionclass2'>Refer to the <a href='course/en/doc/Sonata_Operator’s_Manual.pdf' target='_blank'><b>Sonata Operator’s Manual</b></a> for additional information regarding contraindications.</p>",
+        "instruction":"",
+            "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+      {
+        "_id": "c-10-04",
+        "_parentId": "b-10-04",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Patient Selection Considerations",
+        "displayTitle":"<h5 class='custom_heading'><b>Patient Selection Considerations</b></h5>",
+        "body":"<p>There are additional patient selection considerations to take note of when using the Sonata® System: <ul><li>Safety and effectiveness with regard to fertility and fecundity after the use of the Sonata® System have not been established.</li><li>Effectiveness in women with clinically significant adenomyosis has not been established.</li><li>Not intended for use in women with an unusually short endometrial cavity (< 4.5 cm fundus-to-external OS).</li><li>Not intended for use in women with any abnormality of the endometrial cavity that, in the judgment of the physician, prevents sufficient access to the endometrial cavity.</li><li>The RFA Handpiece Needle Electrodes contain nickel and should be used with caution in patients with a known nickel allergy.</li><li>Transcervical radiofrequency ablation with the Sonata® System should not be performed in patients with known hardware in one or both lower extremities (e.g., hip implants). The safety of abdominopelvic radiofrequency ablation in such situations has not been established.</li><li>Transcervical radiofrequency ablation with the Sonata® System should not be performed in the presence of metal jewelry that cannot be removed (including abdominal and genital piercings).</li><li>Not intended for use on patients whose thighs cannot accommodate the Dispersive Electrodes without overlap.</li><li>As with any surgical procedure, the Sonata® System should be used with caution in patients with a known coagulopathy, with appropriate medical measures available to correct a bleeding disorder if deemed necessary by the physician.</li></ul></p><div><p  class='extra-sectionclass2'>Refer to the <a href='course/en/doc/Sonata_Operator’s_Manual.pdf' target='_blank'><b>Sonata Operator’s Manual</b></a> for additional information regarding patient selection considerations.</p></div>",
+        "instruction":"",
+            "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-10-04-a",
+        "_parentId": "b-10-04-a",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Additional Patient Selection Considerations",
+        "displayTitle": "<h5 class='custom_heading'><b>Additional Patient Selection Considerations</b></h5>",
+        "body": "<p class='text-center'>Additional considerations for patient selection when using the Sonata® System include the following.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Fibroid number",
+                "body": "<p>The following are considerations for the number of fibroids:</p> <ul><li>In the SONATA Clinical Trial, up to 10 fibroids were ablated/patient.</li><li>Sometimes, this required >10 ablations in total.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/narrative-1.jpg",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-2/narrative-1.jpg' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Fibroid size",
+                "body": "<p>The following are Considerations for the fibroid size:</p><ul><li>Most available Sonata data involves ablation of fibroids < 8 cm.</li><li>Larger fibroids (less prevalent) may require additional ablations.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/narrative-2.jpg",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-2/narrative-2.jpg' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Fibroid Type",
+                "body": "<p>The fibroid type considerations include those highlighted in green.</p><div><img src='course/en/images/mod-2/narrative-diagram.jpg' /></div>",
+                "_graphic": {
+                    "src": "course/en/images/mod-2/narrative-3.jpg",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-2/narrative-3.jpg' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+   {
+        "_id": "c-10-04-b",
+        "_parentId": "b-10-04-b",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 1",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 1</h5><p class='custom-space'>Which fibroid types can be treated with the Sonata System?</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "1",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "2",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "2-5",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "3",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "4",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "5",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "All of the above",
+                "_shouldBeSelected": true
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-04-c",
+        "_parentId": "b-10-04-b",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"ffff",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-2/Cyu-1-img.png",
+            "small": "course/en/images/mod-2/Cyu-1-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "c-10-04-d",
+        "_parentId": "b-10-04-c",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 2",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 2</h5><p class='custom-space'>What are the Sonata® System Contraindications?</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "Current pregnancy",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Presence of one or more intratubal implants for sterilization",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Active pelvic infection",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Suspected gynecologic malignancy/premalignancy",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Intrauterine Device (IUD) unless removed prior to procedure",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "All of the above",
+                "_shouldBeSelected": true
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-04-e",
+        "_parentId": "b-10-04-c",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-2/Cyu-2-img.png",
+            "small": "course/en/images/mod-2/Cyu-2-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-10-04-f",
+        "_parentId": "b-10-04-d",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 3",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 3</h5><p class='custom-space'>The Safety and effectiveness with regard to fertility and fecundity after the use of the Sonata® System have NOT been established.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "True",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "False",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-04-g",
+        "_parentId": "b-10-04-d",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-2/Cyu-3-img.png",
+            "small": "course/en/images/mod-2/Cyu-3-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-01_02-next",
+        "_parentId": "b-01_02-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+         "_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-15-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+  },
+{
+    "_id": "c-10-05-a",
+    "_parentId": "b-10-05-a",
+    "_type": "component",
+    "_component": "media",
+    "_classes": "custom-width",
+    "_layout": "full",
+    "_comment": "_setCompletionOn = inview | play | ended",
+    "_useClosedCaptions": false,
+    "_allowFullScreen": true,
+    "title": "The Sonata® System Components",
+    "alwaysShowControls":"false",
+    "clickToPlayPause": "false",
+    "displayTitle": "<h5 class='custom_heading'>The Sonata® System Components</div>",
+    "body": "<p>The Sonata® System consists of durable equipment, software, and various single-use and reusable components.</p><p>This short video highlights the system components.</p>",
+     "instruction": "<div><i>Select the <b>Play</b> button to start the video.</i></div><div class='extra-sectionclass2'>To know more about the <b>Graphical Guidance Software (GGS) User Interface</b>, click <a href='course/en/doc/GYN_22703_Graphical_Guidance_Software_(GGS)_User_Interface_Resources_1_2_0.pdf' target='_blank'><u>here</u></a>.<div>To know more about the <b>Preferences Menu</b>, click <a href='course/en/doc/GYN_22703_Preferences_Menu_Resources_1_2_0.pdf' target='_blank'><u>here</u></a>.</div></div>",
+    "_media": {
+        "mp4": "course/en/video/video_11.0.mp4",
+        "poster": "course/en/video/poster-img-11.0.jpg",
+        "autoplay":"true"
+    
+        },
+     "_transcript": {
+            "_inlineTranscript": true,
+            "_externalTranscript": false,
+            "inlineTranscriptButton": "Transcript",
+            "inlineTranscriptCloseButton": "Close Transcript",
+            "inlineTranscriptBody": "<div>The Sonata® System components include: </div><ul><li>Ultrasound Console (laptop) </li><li>Graphical Guidance Software (GGS) User Interface </li><li>RF Generator</li><li>Treatment Device</li><li>System Cart, including a Height Adjustment Control Lever, Storage, and Locking Wheels</li><li>Mouse</li><li>Footswitch</li><li>Two Dispersive Electrodes</li></ul><div class='custom-space'>Treatment Device consists of:</div><ul><li>IUUS Probe (reusable) </li><li>RFA Handpiece</li></ul><div class='custom-space'>The RF Generator includes:</div><ul><li>Dispersive Electrode Connections</li><li>Footswitch Connection</li><li>RFA Handpiece Connection</li></ul>",
+            "transcriptLinkButton": "Transcript",
+            "transcriptLink": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+ },
+
+    {
+        "_id": "c-10-05-b",
+        "_parentId": "b-10-05-b",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Radiofrequency (RF) Generator",
+        "displayTitle":"<h5 class='custom_heading'><b>Radiofrequency<br/>(RF) Generator</b></h5>",
+        "body":"<p>In the Sonata® System, RF energy passes from the generator to the device, through the patient, back through a pair of dispersive electrodes, and then returns to the RF Generator.</p>",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/secttion00002.png",
+            "small": "course/en/images/mod-3/secttion00002.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-10-05-c",
+        "_parentId": "b-10-05-c",
+        "_classes": "full-width-slider",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Treatment Device",
+        "displayTitle": "<h5 class='custom_heading'><b>Treatment Device</b></h5>",
+        "body": "<p>The Treatment Device is the assembly of the Intrauterine Ultrasound Probe and the Radiofrequency Ablation Handpiece.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Intrauterine Ultrasound (IUUS) Probe",
+                "body": "<p>The IUUS probe enables visualization and targeting of fibroids. It is a multiple-use device after reprocessing (cleaning and sterilizing).</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/1stimgsection3.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/1stimgsection3.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Radiofrequency Ablation (RFA) Handpiece ",
+                "body": "<p>The RFA Handpiece is a single use sterile device that enables RF ablation.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/2ndimgsection3.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/2ndimgsection3.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Treatment Device",
+                "body": "<p>The image of the treatment device with the two components connected is given below.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/3narrative-img-diagram.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/3narrative-img-diagram.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    
+    
+    
+    
+  {
+        "_id": "c-10-05-d",
+        "_parentId": "b-10-05-d",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"RF Ablation Mechanism",
+        "displayTitle":"<h5 class='custom_heading1'><b>RF Ablation Mechanism</b></h5>",
+        "body":"<p>RF Ablation functions by delivering energy from a conductor (Needled Electrode) to tissue. Transfer of energy from needle electrode tips to tissue results in tissue heating. The heating effects diminish as energy gets farther from the Needle Electrodes and Introducer.</p><p><strong>During RF Ablation:</strong> <ul><li>Energy is applied to create heat to a target temperature.</li><li>Ablation time depends on ablation size selected.</li><li>The SMART Guide<sup>TM</sup> displays the Ablation Zone which is the region of affected tissue.</li></ul></p>",
+        "instruction":"",
+            "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+	,
+    {
+        "_id": "c-10-05-e",
+        "_parentId": "b-10-05-d",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"RF Ablation Mechanism",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+         "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/img001section4.png",
+            "small": "course/en/images/mod-3/img001section4.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "c-10-05-f",
+        "_parentId": "b-10-05-e",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "SMART Guide<sup>TM</sup>",
+        "displayTitle": "<h5 class='custom_heading'><b>SMART Guide<sup>TM</sup></b></h5>",
+        "body": "<p>The SMART Guide<sup>TM</sup> allows the physician to plan treatments with the guidance of the Intrauterine Ultrasound imaging.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Use of the SMART Guide<sup>TM</sup>",
+                "body": "<p>The Physician controls the SMART Guide<sup>TM</sup> to determine: <ul><li>Size and location of the Ablation Zone.</li><li>Mechanical stops for Introducer and Needle Electrode advancement.</li><li>Duration of RF energy delivery based on the size of the Ablation Zone (automatically programmed by the system based on the size of the Ablation Zone).</li></ul></p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/section5img001.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/section5img001.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "SMART Guide<sup>TM</sup> Example",
+                "body": "<p>The SMART Guide<sup>TM</sup> is displayed in the ultrasound image for targeting a fibroid for a RF ablation. Components of the SMART Guide<sup>TM</sup> controlling the size and location of the ablation treatment are: <ul><li>Ablation Zone (red inner ellipse)</li><li>Thermal Safety Border (green outer ellipse)</li></ul></p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/section5img002.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/section5img002.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "SMART Guide<sup>TM</sup> Additional Components",
+                "body": "<p>Additional components of the SMART Guide<sup>TM</sup> are:</p><div class='main-class'><div class='child-sec1'><h6>Needle Electrode Origin Marker</h6><div class='child-sec2'>Indicates where the needle electrodes are deployed from the Introducer.</div></div></div><div class='main-class'><div class='child-sec1'><h6>Introducer Tip Marker</h6><div class='child-sec2'>Aligns with the tip of the Introducer. This alignment ensures accuracy of the ablation zone.</div></div></div><div class='main-class'><div class='child-sec1'><h6>Needle Electrode Tip Markers</h6><div class='child-sec2'>Indicates the position of the needle electrode Tips. Markers turn bold red when the needle electrodes are fully deployed.</div></div></div>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/section5img003.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/section5img003.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Procedure Animation",
+                "body": "<p>This video demonstrates a transcervical radiofrequency ablation with the Sonata® System.</p><div><video width='420' height='240' controls><source src='course/en/video/video_15.0.mp4' type='video/mp4'></video></div>",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/section5img4.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-3/section5img4.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-10-05-g",
+        "_parentId": "b-10-05-f",
+        "_classes": "hotgraphic-popclass",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Ablation Zone and Thermal Safety Border",
+        "displayTitle": "<h5 class='custom_heading'>Ablation Zone and Thermal Safety Border</h5>",
+        "body": "<p>The Ablation Zone and Thermal Safety Border are important components of the SMART Guide<sup>TM</sup>. </p><div class='extra-sectionclass3'><b>Note: </b>The Thermal Safety Border must be within the uterine serosal margin for safe ablation.</div>",
+        "mobileBody": "",
+        "instruction": "<div class='instruction_txt'><i>Select each plus sign to find out more.</i></div>",
+        "mobileInstruction": "",
+        "_setCompletionOn": "allItems",
+        "_useGraphicsAsPins": false,
+        "_canCycleThroughPagination": false,
+        "_hidePagination": true,
+        "_graphic": {
+            "src": "course/en/images/mod-3/section6img001.png",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "Thermal Safety Border:",
+                "body": "<p>The Thermal Safety Border (green outer ellipse) is the border at which tissue is safe from potential thermal damage.</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/hotspot-mobile.png",
+                    "title": "",
+                    "_classes": "",
+                    "imgName":"",
+                    "imgText":""
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 50,
+                "_left": 27
+			},
+            {
+                "title": "Ablation Zone",
+                "body": "<p>The Ablation Zone (red inner ellipse) is a two-dimensional representation of the average region of tissue ablation for the selected size.</p>",
+                "_itemImage": "",
+                "_itemImageHover": "",
+                "_graphic": {
+                    "src": "course/en/images/mod-3/hotspot-mobile.png",
+                    "title": "",
+                    "_classes": "",
+
+                    "imgName":"",
+                    "imgText":""
+
+                },
+                "pinAlt": "alt text",
+                "strapline": "Select the '+' icon.",
+                "_classes": "showText",
+                "_top": 31,
+                "_left": 56
+			}
+		],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+        "_id": "c-10-05-h",
+        "_parentId": "b-10-05-g",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 1",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 1</h5><p class='custom-space'>What determines if you are safely positioned within the serosa?</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "Green outer ellipse must be within the serosa",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "Red inner ellipse must be within the serosa",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Green line size is same as the Ablation Zone",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Yellow line must be within the serosa",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-05-i",
+        "_parentId": "b-10-05-g",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/Cyu-1-img.png",
+            "small": "course/en/images/mod-3/Cyu-1-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-10-05-j",
+        "_parentId": "b-10-05-h",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 2",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 2</h5><p class='custom-space'>Which component of the treatment device is reusable after being cleaned and sterilized?</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "IUUS Probe ",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "RFA Handpiece",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Dispersive Electrodes",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "RFA Handpiece Connection",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-05-k",
+        "_parentId": "b-10-05-h",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/cyu-2-img.png",
+            "small": "course/en/images/mod-3/cyu-2-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+         {
+        "_id": "c-10-05-l",
+        "_parentId": "b-10-05-i",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 3",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 3</h5><p class='custom-space'>The physician controls the SMART Guide<sup>TM</sup> to determine the size and location of the Ablation Zone and the Thermal Safety Border.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "True",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "False",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-05-m",
+        "_parentId": "b-10-05-i",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/Cyu-3-img.png",
+            "small": "course/en/images/mod-3/Cyu-3-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+      {
+        "_id": "c-10-05-n",
+        "_parentId": "b-10-05-j",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 4",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 4</h5><p class='custom-space'>The Ablation Zone appears as the ____________ and is a two-dimensional representation of the average region of tissue ablation for the selected size.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "Red Inner Ellipse",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "Green Outer Ellipse",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Perimeter of the fibroid",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Serosal margin ",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-05-o",
+        "_parentId": "b-10-05-j",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/Cyu-4-img.png",
+            "small": "course/en/images/mod-3/Cyu-4-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "c-10-05-p",
+        "_parentId": "b-10-05-k",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 5",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 5</h5><p class='custom-space'>The green outer ellipse is the ___________ and is the border at which tissue is safe from potential thermal damage.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "Region to be ablated",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Thermal Safety Border",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "Red Inner Ellipse",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Ablation Zone",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-10-05-q",
+        "_parentId": "b-10-05-k",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-3/Cyu-4-img.png",
+            "small": "course/en/images/mod-3/Cyu-4-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "c-03_02-next",
+        "_parentId": "b-01_03-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+         "_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-25-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+  },
+    {
+       "_id": "c-70-01-a",
+        "_parentId": "b-70-01-a",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Ultrasound Safety Statements",
+        "displayTitle":"<h5 class='custom_heading text-left'>Ultrasound Safety Statements</h5>",
+        "body":"<p>Ultrasound safety should be practiced while performing ultrasound imaging. Please consider the following statements:</p><ul><li>The Ultrasound Console complies with the American Institute of Ultrasound in Medicine standard for ultrasound output: AIUM-NEMA UD3. </li><li>The ultrasound procedures should be used for valid reasons and for the shortest period of time. </li><li>For systems distributed in the United States of America, refer to the <strong><i>Medical Ultrasound Safety Education Program</i></strong> brochure produced by the AIUM. </li><li>As described in the <strong><i>Sonata Operator’s Manual,</i></strong> minimizing the real-time displayed index values allows the practice of the ALARA principle (exposure of the patient to ultrasound energy at a level that is As Low As Reasonably Achievable).</li><li>The Ultrasound Console (laptop) incorporates an output display of Mechanical and Thermal Indices to allow you to monitor, and to limit, the amount of ultrasound energy that is transferred to the patient.</li></ul><p class='extra-sectionclass2'>Refer to the <a href='course/en/doc/Sonata_Operator’s_Manual.pdf' target='_blank' style='text-decoration: none;color:#595790;'><strong><i>Sonata Operator’s Manual</strong></i></a> for more information on the ALARA principle.</p>",
+        "instruction":"",
+     "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+       "_id": "c-70-01-b",
+        "_parentId": "b-70-01-a",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-4/img.png",
+            "small": "course/en/images/mod-4/img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+  {
+        "_id": "c-70-01-c",
+        "_parentId": "b-70-01-b",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "IUUS Imaging",
+        "displayTitle": "<h5 class='custom_heading'><b>IUUS Imaging</b></h5>",
+        "body": "<p class='text-center'>This section will describe details of the ultrasound images from within the uterus during Intrauterine (IUUS) scanning.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "General Image from Within the Uterus",
+                "body": "<p>In this image, the IUUS Tip is positioned within the endometrial cavity to perform intrauterine ultrasound imaging; In transvaginal ultrasound imaging, this location would be displayed as the endometrial stripe.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-4/narrative-img1.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-4/narrative-img1.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ultrasound Image from Within the Uterus",
+                "body": "<p>In these images:</p><ul><li>The IUUS Tip is in the endometrial cavity.</li><li>A small amount of hypotonic fluid is present in the endometrial cavity.</li><li>The myometrium appears more echogenic than the fibroid. It also has a more uniform appearance than the fibroid tissue.</li><li>A fibroid with mixed echogenicity. Fibroids may be hyperechoic, hypoechoic, isoechoic, or mixed echogenicity.</li><li>The serosa is the border of the uterus and peritoneal structures.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-4/narrative-img2.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-4/narrative-img2.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "IUUS Imaging – Introducer and Needle Electrodes",
+                "body": "<p>In this image:</p><ul><li>The Introducer and Needle Electrodes are visualized and aligned with the SMART Guide<sup>TM</sup> indicators.</li><li>As with any ultrasound image where the soundwaves interact with metal, ultrasound artifacts may be present. To distinguish artifact from anatomy, use hand motions in live scanning. For improved imaging, infuse small amount of hypotonic fluid and maintain contact between imaging surface and tissue. </li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-4/narrative-img-3.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-4/narrative-img-3.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-70-01-d",
+        "_parentId": "b-70-01-c",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        
+        "title": "Check Your Understanding 1",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 1</h5><p class='custom-space'>According to the AIUM, ultrasound procedures should be used for valid reasons and for the shortest period of time.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "True",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "False",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-70-01-e",
+        "_parentId": "b-70-01-c",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-4/Cyu-1-img.png",
+            "small": "course/en/images/mod-4/Cyu-1-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-70-01-f",
+        "_parentId": "b-70-01-d",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 2",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 2</h5><p class='custom-space'>Where is the Intrauterine Probe Tip placed to perform an Intrauterine Ultrasound Scan?</p>",
+        "instruction": "<i>Choose the correct option(s) and select <b>Submit</b>.</i>",
+        "_items": [
+            {
+                "text": "The vaginal canal",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "The endometrial cavity via the cervix",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "Through a laparoscopic port",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Border of the uterus",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-70-01-g",
+        "_parentId": "b-70-01-d",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-4/Cyu-2-img.png",
+            "small": "course/en/images/mod-4/Cyu-2-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+   
+    {
+        "_id": "c-05_02-next",
+        "_parentId": "b-01_05-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+         "_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-30-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+  },
+     {
+        "_id": "c-70-01-i",
+        "_parentId": "b-70-01-e",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Ablation Targeting",
+        "displayTitle": "<h5 class='custom_heading'><b>Ablation Targeting</b></h5>",
+        "body": "<p>The ultrasound images display ablation targeting utilizing the SMART Guide<sup>TM</sup>. The images provide examples of both acceptable positioning of the Ablation Zone (red inner ellipse) and Thermal Safety Border (green outer ellipse) and examples of when the SMART Guide<sup>TM</sup> should be repositioned.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "SMART Guide<sup>TM</sup> Positioning ",
+                "body": "<p>SMART Guide<sup>TM</sup> positioning is to:</p><ul><li>Encompass as much of the fibroid in the Ablation Zone (red inner ellipse), while keeping the Thermal Safety Border (green outer ellipse) within the serosal margin at all times.</li><li>Use hand motions to manipulate the Treatment Device to correctly position the SMART Guide<sup>TM</sup> through the center of the fibroid. </li><li>Perform Safety Rotations after advancing the Introducer, and then again after the Needle Electrodes are deployed to confirm the positioning of the Thermal Safety Border is within the serosal margin in all views prior to starting RF Energy delivery.</li><li>If the SMART Guide<sup>TM</sup> is repositioned, repeat the safety rotations.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-5/section1img001.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-5/section1img001.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Targeting Image – Example 1",
+                "body": "<p>This image shows the positioning of Ablation Zone (red inner ellipse) and Thermal Safety Border (green outer ellipse):</p><ul><li>The Thermal Safety Border (green outer ellipse) is fully inside the serosal margin.</li><li>The Ablation Zone (red inner ellipse) is in the center of fibroid.</li><li>The Ablation Zone (red inner ellipse) is encompassing the fibroid. </li><li>This is an example of good targeting.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-5/section1img002.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-5/section1img002.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Targeting Image – Example 2",
+                "body": "<p>This image shows the positioning of Ablation Zone (red inner ellipse) and Thermal Safety Border (green outer ellipse):</p><ul><li>The Thermal Safety Border (green outer ellipse) is fully inside the serosal margin.</li><li>The Ablation Zone (red inner ellipse) is in the center of fibroid.</li><li>The Ablation Zone (red inner ellipse) is encompassing the fibroid. </li><li>This is an example of good targeting.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-5/section1img003.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-5/section1img003.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Targeting Image – Example 3",
+                "body": "<p>This image shows the following:</p><ul><li>Thermal Safety Border (green outer ellipse) extends beyond the serosal margin. RF Ablation is unsafe to start when the Thermal Safety Border (green outer ellipse) crosses the serosal margin.</li><li>The Ablation Zone (red inner ellipse) is not positioned in the center of fibroid.</li><li>The Ablation Zone (red inner ellipse) is not positioned to encompass the maximum amount fibroid tissue.</li><li>Before proceeding, the Ablation Zone/Thermal Safety Border need to be repositioned.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-5/section1img004.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-5/section1img004.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Targeting Image – Example 4",
+                "body": "<p>This image shows the following:</p><ul><li>The Thermal Safety Border (green outer ellipse) is fully inside the serosal margin.</li><li>The Ablation Zone (red inner ellipse) is not in the center of the fibroid.</li><li>The Ablation Zone (red inner ellipse) position includes more myometrium than necessary.</li><li>Before proceeding, the Ablation Zone/Thermal Safety Border need to be repositioned.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-5/section1img005.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-5/section1img005.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+    "_id":"c-70-01-j",
+    "_parentId":"b-70-01-f",
+    "_type":"component",
+    "_component":"gmcq",
+    "_classes":"",
+    "_layout":"full",
+    "_attempts":"infinite",
+    "_shouldDisplayAttempts": false,
+    "_questionWeight":1,
+    "_isRandom":false,
+    "_selectable":4,
+    "_canShowModelAnswer": false,
+    "_recordInteraction":true,
+    "_columns": 3,
+    "title": "Check Your Understanding 1",
+    "displayTitle": "<h5 class='custom_heading'>Check Your Understanding 1</h5>",
+    "body": "<p>Select the two examples of correctly positioned ablation targeting.</p>",
+    "instruction": "<i>Choose the correct option(s) and select <b>Submit</b>.</i>",
+    "_items": [
+        {
+            "text": "a",
+            "_shouldBeSelected":true,
+            "_graphic": {
+                "alt": "Alt text for option 1",
+                "large": "course/en/images/mod-5/option001.png",
+                "small": "course/en/images/mod-5/option001.png"
+            }
+        },
+        {
+            "text": "b",
+            "_shouldBeSelected":true,
+            "_graphic": {
+                "alt": "Alt text for option 2",
+                "large": "course/en/images/mod-5/2ndoption.png",
+                "small": "course/en/images/mod-5/2ndoption.png"
+            }
+        },
+        {
+            "text": "c",
+            "_shouldBeSelected":false,
+            "_graphic": {
+                "alt": "Alt text for option 3",
+                "large": "course/en/images/mod-5/3rdoption.png",
+                "small": "course/en/images/mod-5/3rdoption.png"
+            }
+        },
+        {
+            "text": "d",
+            "_shouldBeSelected":false,
+            "_graphic": {
+                "alt": "Alt text for option 4",
+                "large": "course/en/images/mod-5/4thoption.png",
+                "small": "course/en/images/mod-5/4thoption.png"
+            }
+        }
+    ],
+    "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+},
+     {
+        "_id": "c-70-01-k",
+        "_parentId": "b-70-01-g",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 2",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 2</h5><p class='custom-space'>When positioning the SMART Guide<sup>TM</sup>:</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "Keep the Thermal Safety Border (green outer ellipse) within the serosal margin at all times",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Do not use hand or elbow motion to change the position",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Encompass as much of the fibroid in the Ablation Zone (red inner ellipse) as possible",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "Be sure all the fibroid is in the Ablation Zone ",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "A and C",
+                "_shouldBeSelected": true
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-70-01-l",
+        "_parentId": "b-70-01-g",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-5/Cyu-2-img.png",
+            "small": "course/en/images/mod-5/Cyu-2-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-70-01-m",
+        "_parentId": "b-70-01-h",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 3",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 3</h5><p class='custom-space'>The Thermal Safety Border (green outer ellipse) can be placed just beyond the serosa.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "True",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "False",
+                "_shouldBeSelected": true
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-70-01-n",
+        "_parentId": "b-70-01-h",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-5/Cyu-3-img.png",
+            "small": "course/en/images/mod-5/Cyu-3-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-70-01-o",
+        "_parentId": "b-70-01-i",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 4",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 4</h5><p class='custom-space'>Safety rotations after the Needle Electrodes are deployed to verify the location of the Thermal Safety Border in relation to the serosal margin are required during the Ablation Targeting process.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "True",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "False",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-70-01-p",
+        "_parentId": "b-70-01-i",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-5/Cyu-4-img.png",
+            "small": "course/en/images/mod-5/Cyu-4-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+  
+     {
+        "_id": "c-01_08-next",
+        "_parentId": "b-01_08-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+		"_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-35-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+	},
+    {
+       "_id": "c-20-01-a",
+        "_parentId": "b-20-01-a",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Initiate Treatment: Deploy Controls 1-2-3-4",
+        "displayTitle":"<h5 class='custom_heading'>Initiate Treatment: Deploy Controls 1-2-3-4</h5>",
+        "body":"<p>The controls must be used in the order described in this training. Each step must be performed.</p>",
+        "instruction":"<i></i>",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-6/main-img.png",
+            "small": "course/en/images/mod-6/main-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "c-20-01-b",
+        "_parentId": "b-20-01-b",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Deploy Controls: Step 1",
+        "displayTitle": "<h5 class='custom_heading'><b>Deploy Controls: Step 1</b></h5>",
+        "body": "<p>The first step is to articulate the IUUS Tip.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Articulate IUUS Tip",
+                "body": "<p>To set the Articulation Lever:</p><ul><li>Depress the Articulation Lever and pull back proximal</li><li>Release the lever at mechanical stops for angles at 45° or 60°</li></ul><p>The ultrasound scan plane changes with tip articulation. Use hand/arm movement to maintain the scan plane with articulation.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step1-img1.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step1-img1.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Post IUUS Tip Articulation",
+                "body": "<p>Introducer guide (blue dashed line) appears when the IUUS Probe Tip is articulated.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step1-img2.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step1-img2.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+            
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20-01-c",
+        "_parentId": "b-20-01-c",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Deploy Controls: Step 2",
+        "displayTitle": "<h5 class='custom_heading'><b>Deploy Controls: Step 2</b></h5>",
+        "body": "<p>The second step is to use the Ablation Guide Knob to position the SMART Guide<sup>TM</sup>.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Treatment Device RFA Handpiece Controls",
+                "body": "<p>The Ablation Guide Knob controls the SMART Guide<sup>TM</sup> on the ultrasound image.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step2-img1.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step2-img1.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Guide Knob",
+                "body": "<p>Depress and slide forward to activate the Ablation Guide Knob. Sliding forward/back adjusts depth of the SMART Guide<sup>TM</sup>. Rotating adjusts the size of the Ablation Zone and the Thermal Safety Border.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step2-img2.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step2-img2.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+            
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+     {
+        "_id": "c-20-01-d",
+        "_parentId": "b-20-01-d",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Deploy Controls: Step 3",
+        "displayTitle": "<h5 class='custom_heading'><b>Deploy Controls: Step 3</b></h5>",
+        "body": "<p>The third step is to advance the Introducer into the fibroid.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Treatment Device RFA Handpiece Controls",
+                "body": "<p>The Introducer Slider advances/retracts the Introducer.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step3-img1.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step3-img1.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Introducer Sliders",
+                "body": "<p>The Introducer Slider Control includes two Introducer Sliders and two locks. Depress both locks and slide the Introducer Sliders forward to advance the Introducer.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step3-img2.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step3-img2.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+            
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20-01-e",
+        "_parentId": "b-20-01-e",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Deploy Controls: Step 4",
+        "displayTitle": "<h5 class='custom_heading'><b>Deploy Controls: Step 4</b></h5>",
+        "body": "<p>The fourth step is to deploy the Needle Electrodes.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "Treatment Device RFA Handpiece Controls",
+                "body": "<p>The Needle Electrode Slider deploys/retracts the Needle Electrodes.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step4-img1.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step4-img1.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Needle Electrode Sliders",
+                "body": "<p>To deploy the Needle Electrodes, push the Needle Electrode Sliders forward. The Needle Electrode Markers will change from Yellow to bold Red when they are deployed completely.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-6/Step4-img2.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-6/Step4-img2.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+            
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    
+    {
+    "_id": "c-20-01-f",
+    "_parentId": "b-20-01-f",
+    "_classes": "",
+    "_layout": "left",
+    "_type": "component",
+    "_component": "matching",
+    "_attempts": "infinite",
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_canShowModelAnswer": false,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "title": "Check Your Understanding",
+    "displayTitle": "<h5 class='custom_heading'>Check Your Understanding</h5>",
+    "body": "",
+    "instruction":"<i>Match the controls with the actions and select <b>Submit</b>.</i>",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+   "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+    },
+    "placeholder": "Select an option",
+    "_items": [
+        {
+            "text": "Control 1",
+            "_options": [
+                {
+                    "text": "Articulates the IUUS Probe Tip",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Adjusts the depth and size of the Ablation Zone",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Advances the Introducer",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Deploys the Needle Electrodes",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Control 2",
+            "_options": [
+                {
+                    "text": "Articulates the IUUS Probe Tip",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Adjusts the depth and size of the Ablation Zone",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Advances the Introducer",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Deploys the Needle Electrodes",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Control 3",
+            "_options": [
+                {
+                    "text": "Articulates the IUUS Probe Tip",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Adjusts the depth and size of the Ablation Zone",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Advances the Introducer",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Deploys the Needle Electrodes",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Control 4",
+            "_options": [
+                {
+                    "text": "Articulates the IUUS Probe Tip",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Adjusts the depth and size of the Ablation Zone",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Advances the Introducer",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Deploys the Needle Electrodes",
+                    "_isCorrect": true
+                }
+            ]
+        }
+    ],
+            "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+  },
+     {
+       "_id": "c-20-01-g",
+        "_parentId": "b-20-01-f",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-6/CYU-Img.png",
+            "small": "course/en/images/mod-6/CYU-Img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     
+     {
+        "_id": "c-01_09-next",
+        "_parentId": "b-01_09-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+		"_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-40-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+	},
+    {
+        "_id": "c-100-01",
+        "_parentId": "b-100-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Room, System, and Patient Set Up",
+        "displayTitle":"<h5 class='custom_heading text-left'>Room, System, and Patient Set Up</h5>",
+        "body":"<p>To perform an Ablation Procedure, the following is needed:</p><p>Sterile Field containing:</p><ul><li>250 cc Hypotonic fluid</li><li>D & C kit with dilators to 9 mm</li><li>Fenestrated speculum</li></ul><p>Patient Preparation</p><ul><li>Anesthesia determined by physician</li><li>Deep venous thrombosis (DVT) prophylaxis as suggested per the American College of Obstetricians and Gynecologists (ACOG) guidelines</li><li>All jewelry and piercings removed</li></ul><div class='branching'><a class='branching1' href='course/en/doc/GYN_22703_Setup_the_Procedure_Room_Resources_1_2_0.pdf' target='_blank'><img src='course/en/images/mod-7/img001.png' /><span><b>Setup Room</b></span></a><a href='course/en/doc/GYN_22703_Prepare_the_Patient_Resources_1_2_0.pdf' class='branching1' target='_blank'><img src='course/en/images/mod-7/img002.png'/><span><b>Prepare Patient</b></span></a><a href='course/en/doc/GYN_22703_Set_up_the_System_Resources_1_2_0.pdf' class='branching1' target='_blank'><img src='course/en/images/mod-7/img003.png'/><span><b>Setup System</b></span></a><a href='course/en/doc/GYN_22703_Prepare_for_Procedure_Resources_1_2_0.pdf' class='branching1' target='_blank'><img src='course/en/images/mod-7/img004.png'/><span><b>Prepare for Procedure<b></span></a></div>",
+        "instruction":"",
+            "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+     {
+        "_id": "c-01_10-next",
+        "_parentId": "b-01_10-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+		"_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-45-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+	},
+    {
+        "_id": "c-110-01-a",
+        "_parentId": "b-110-01-a",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Start Ablation Procedure",
+        "displayTitle": "<h5 class='custom_heading text-left'><b>Start Ablation Procedure</b></h5>",
+        "body": "<p>To perform an ablation treatment, you must:</p><div class='img-part'><div class='text-icon'><span class='icon-one'>Inspect the Treatment Device.</span></div><div class='text-icon'><span class='icon-two'>Prepare the Treatment Device.</span></div><div class='text-icon'><span class='icon-three'>Reset the Treatment Device.</span></div><div class='text-icon'><span class='icon-fourth'>Insert the Treatment Device.</span></div><div class='text-icon'><span class='icon-five'>Target, perform safety rotations, and activate RF energy.</span></div></div>",
+        "instruction": "<i>Select the <b>(+)</b> icon to find out more.</i>",
+        "_items": [
+            {
+                "title": "<b>Prepare the Treatment Device</b>",
+                "body": "<p>To do so:</p><ol><li>Connect the RFA Handpiece to the IUUS Probe:<ol type='a'> <li>Align the Tips of the RFA Handpiece and IUUS Probe.</li> <li>Connect the hooks on the IUUS Probe Tip to posts on the RFA Handpiece.</li> <li>Snap the handles together. Do not pinch the Tips together. This may cause damage to the Treatment Device.</li> <li>Inspect the alignment at Tips.</li></ol></li><li>Fill the syringe with hypotonic fluid. Remove or flush all air bubbles from device and tubing prior to inserting in the patient. Air reflects soundwaves.</li><li>Flush until fluid exits the tip of the Treatment Device.</li></ol><div class='img-part'> <div class='img-content width_auto'><img src='course/en/images/mod-8/Accordian2-img1.png' /></div><div class='img-content width_auto'><img src='course/en/images/mod-8/Accordian2-img2.png' /></div><div class='img-content width_auto'><img src='course/en/images/mod-8/Accordian2-img3.png' /></div></div>",
+                "_classes": ""
+			},
+            {
+                "title": "<b>Inspect the Treatment Device</b>",
+                "body": "<p><b>Note:</b> The Physician should inspect the device for any type of damage. If there is any sign of damage, the component with the damage needs to be replaced prior to being inserted into the patient.</p><p>Care should be taken to prevent puncture by the Needle Electrodes/Introducer.</p><p>To inspect the Treatment Device:</p><ol><li>Inspect the Tip connection. Confirm the Tips are connected on both sides.</li><li>Inspect the Imaging Surface for scratches or chips.</li><li>Use the Articulation Lever to angle the Articulating Tip. Articulate to 45° and/or to 60°Depress, slide, and rotate the Ablation Knob. It should move smoothly.</li><li>Advance the Introducer. It should move smoothly.</li><li>Deploy the Needle Electrodes. Make sure there are seven (7) Needle Electrodes and that the Needle Electrodes appear straight.</li></ol><div class='img-part'><div class='img-content width_auto'><img src='course/en/images/mod-8/accordian1-img1.png' /></div><div class='img-content width_auto'><img src='course/en/images/mod-8/Accordian-1img2.png' /></div></div>",
+                "_classes": ""
+			},
+            
+            {
+                "title": "<b>Reset the Treatment Device</b>",
+                "body": "<div class='content-left'><p>To reset the Treatment Device after inspecting it, reverse the actions used during the inspection.</p></div><div class='image-right1'><img src='course/en/images/mod-8/title-3.jpg' /></div>",
+                "_classes": ""
+			},
+             {
+                "title": "<b>Insert the Treatment Device</b>",
+                "body": "<div class='content-left'><p>Insert the Treatment Device for the Ablation Procedure:</p><ol><li>Prior to insertion, review the uterine anatomical characteristics based on pre-procedure diagnostic imaging (Retroverted, Anteverted, etc.).</li><li>Use of a Fenestrated speculum is recommended to assist with access.</li><li>Place the tenaculum to provide stability and aid insertion.</li><li>Dilate cervix to 27 Fr (9 mm). </li><li>Verify that the device is retracted and the IUUS Tip is set to 0° prior to insertion.</li></ol></div><div class='image-right1'><img src='course/en/images/mod-8/Accordian4-img1.png' /></div>",
+                "_classes": ""
+			},
+            {
+                "title": "<b>Target, Perform Safety Rotations, and Activate RF Energy</b>",
+                "body": "<div class='content-left'><p>To do so:</p><ol><li>Locate the fibroid by performing a survey IUUS scan and identify the fibroid to be treated.</li><li>Articulate the IUUS tip and align the Introducer Guide to the widest portion of the fibroid.</li><li>Advance Introducer.</li><li>Perform a safety rotation to verify the location of the Thermal Safety Border and the serosa.</li><li>Deploy the Needle Electrodes.</li><li>Perform the safety rotation to verify the location of the Thermal Safety Border and the serosa.</li><li>Activate the RF generator to treat the targeted area.</li></ol><p><b>Note:</b> The detailed steps to perform the Ablation Procedure are covered later in the course.</p></div><div class='image-right1'><img src='course/en/images/mod-8/Accordian5-img1.png' /></div>",
+                "_classes": ""
+			}
+		],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+        "_id": "c-110-01-b",
+        "_parentId": "b-110-01-b",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Ablation Procedure",
+        "displayTitle": "<h5 class='custom_heading'><b>Ablation Procedure</b></h5>",
+        "body": "<p class='text-center'>To perform the Ablation Procedure:</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "",
+                "body": "<p>The Ultrasound Scan Planes and Hand Motions scan plane changes with the tip articulation.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative1-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative1-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+             {
+                "title": "",
+                "body": "<p>Articulate the IUUS Probe Tip. To do so:<ul><li>Depress the Articulation Lever to unlock.</li><li>While depressing the Articulation Lever, pull the Articulation Lever proximal.</li><li>Release the Articulation Lever at either the 45° or 60° stop.</li></ul></p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative2-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative2-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Survey the uterus using Intrauterine Ultrasound Imaging:</p><ol type='a'><li>Using a 60cc syringe, infuse a small amount hypotonic fluid.<ul type='i'><li>Do not use the fluid pump.</li></ul></li><li>Slide IUUS Probe Tip to the fundus.</li><li>Survey uterus by rotating the device in both directions to imaging the fundus, mid-body, and Lower Uterine Segment (LUS).</li><li>Identify the fibroid(s) to be treated and plan the treatment.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative3-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative3-img.png' alt='' /></div>"
+         
+                },
+				
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>The yellow highlight indicates the function of each component of the Treatment Device.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative4-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative4-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>After identifying a fibroid to be targeted, the IUUS Probe Tip needs to be articulated. To do so:</p><ol><li>Depress and move the Articulation Lever in the direction of the cables.</li><li>Release the lever at one of the preset angulations, 45° or 60°.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative5-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative5-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Target the fibroid:</p><ol><li>With articulation of the IUUS Tip, the Introducer Guide appears as a blue dashed line. The Introducer Guide is the indicator for the trajectory path of the Introducer. It should be lined up with the center of the fibroid to be ablated. </li><li>Point shaft to center the Introducer Guide within the fibroid.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative6-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative6-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Position the SMART Guide<sup>TM</sup>:</p><ol type='a'><li>To activate the SMART Guide<sup>TM</sup>, press and move the #2 Ablation Guide Knob forward. The Ablation Guide will be displayed on the ultrasound display.</li><li>Depress and slide #2 to adjust the depth of the Ablation zone. </li><li>Depress and rotate #2 to adjust the size of the Ablation zone. </li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative7-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative7-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Confirm the SMART Guide<sup>TM</sup> is in the center of the fibroid by sweeping the device in the widest portion of the fibroid.</p>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative8-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative8-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Advance the Introducer. When the SMART Guide<sup>TM</sup> is properly positioned relative to the targeted fibroid, use the Introducer Slider (#3) to advance the Introducer.</p><ol type='a'><li>Grip the Treatment Device.</li><li>Press both Slider Locks (buttons on each side of each side Introducer Slider #3).</li><li>Slide the Introducer Slider forward to align with diamond<span class='daimond-class'><img src='course/en/images/mod-8/Diamond.png'/></span>.</li><li>When positioned, release the Introducer Slider Locks.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative9-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative9-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Align the Introducer Tip.</p><ul><li>To ensure accuracy of the SMART Guide<sup>TM</sup> positioning, the Introducer must be aligned with the yellow  diamond displayed within the Ablation Zone.</li><li>This process is included in the hands-on training provided by a certified Gynesonics Trainer.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative10-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative10-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Perform safety rotation.</p><ol type='a'><li>Once the Introducer is in place and aligned, a Safety Rotation in both directions must be made. The Safety Rotation is made to verify the Thermal Safety Border is within the serosal margin in all planes.</li><li>Rotate the Treatment Device far enough in both directions to verify the Thermal Safety Border (green outer ellipse) is fully contained within serosa in all adjacent planes.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative11-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative11-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Reposition the Thermal Safety Border, as needed. If the Thermal Safety Border (green outer ellipse) crosses the serosa, then:</p><ol type='a'><li>Reduce the Ablation Zone depth or size,</li><li>Pull back the device,</li><li>Change the articulation angle from 45° to 60°, and/or</li><li>Move the hand/elbow up or down to change the pointing position.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative12-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative12-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Deploy the Needle Electrodes:</p><ol type='a'><li>To deploy the Needle Electrodes, slide #4 control until it reaches a physical stop.</li><li>The Needle Electrode Markers turn bold red when completely deployed.</li><li>Ensure that the visualized Tips are close to the marker arcs.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative13-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative13-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            
+            {
+                "title": "",
+                "body": "<p>Perform the final safety rotation.</p><ol type='a'><li>The final safety rotation is done to verify that the Thermal Safety Border (green outer ellipse) is within the serosal margin in all visible planes.</li><li>Rotate the Treatment Device as far as possible in both directions.</li></ol>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative15-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative15-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>If certain that the Thermal Safety Border (green outer ellipse) does not cross the serosa, the Support Staff uses the Mouse to click <button class='narr-button'>Ready</button> to prepare the RF Generator for activation. </p><ul type='o'><li>When <button class='narr-button'>Ready</button> is clicked, the RF Status changes to <button class='pink-class'>Ready</button>.</li><li>The RF Generator is now ready for the ablation to be initiated.</li><li>The ablation does not start until the Physician initiates the RF energy by pressing the Footswitch.</li><ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative16-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative16-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Start ablation.</p><ul type='o'><li>To start the ablation, the physician steps on the Footswitch. DO NOT rest foot on the Footswitch as it will stop the ablation.</li><li>In case the ablation needs to be stopped immediately or if the Physician cannot reach the Footswitch, the Support Staff can stop the ablation by pressing the ON/OFF button on the RF Generator. This button is not sterile.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative17-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative17-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>When <button class='active-class'>ACTIVE</button> is displayed, RF energy is being delivered. The RF Generator delivers heats tissue to 221° F (105° C). There is ~1 minute warm up once RF energy is activated.</p><ul type='o'><li>When <button class='active-class'>ACTIVE</button> , the following is displayed on the Ultrasound Display Screen:<ul type='i'><li>Temperature</li><li>Ablation Time</li><li>Ablation progress status bar</li><li>Ablation size</li></ul></li><li>When <button class='active-class'>ACTIVE</button><ul type='i'><li>Stabilize the Treatment Device to maintain the target position.</li><li>DO NOT change the SMART Guide<sup>TM</sup> size or position.</li><li>If uncertain of the target location, stop the ablation.</li><li>Retract Needle Electrodes and Introducer and verify SMART Guide<sup>TM</sup> position before restarting the ablation.</li></li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative18-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative18-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Terminate ablation manually.</p><ul type='o'><li>If for any reason an ablation needs to be stopped manually, step on and release the Footswitch or press the RF ON/OFF button on the front of the RF Generator.</li><li>A message will appear indicating the time remaining for the ablation with an option to restart.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative19-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative19-img.png' alt='' /></div>"
+         
+                },
+				
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "",
+                "body": "<p>Maintain the size and position of the SMART Guide<sup>TM</sup>.</p><ul type='o'><li>DO NOT change the size or depth of the Ablation Zone during active ablation.</li><li>If the size or depth are changed during an ablation, a flashing warning appears.</li><li>If a warning is displayed, the Physician must: <ul type='o'><li>Stop the RF immediately (using Footswitch or button).</li><li>Retract the Needle Electrodes and Introducer.</li><li>Re-target and begin the deployment process.</li></ul></li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-8/Narrative20-img.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-8/Narrative20-img.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+      {
+        "_id": "c-110-01-c",
+        "_parentId": "b-110-01-c",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding</h5><p class='custom-space'>What level of dilation should be completed before inserting the Treatment Device in your patient?</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "25 FR (8.33mm)",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "26 FR (8.67mm)",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "28 FR (9.33mm)",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "27 FR (9mm)",
+                "_shouldBeSelected": true
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-110-01-d",
+        "_parentId": "b-110-01-c",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-8/Cyu-last-img.png",
+            "small": "course/en/images/mod-8/Cyu-last-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-01_11-next",
+        "_parentId": "b-01_11-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+		"_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-50-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+	},
+     {
+        "_id": "c-120-01-a",
+        "_parentId": "b-120-01-a",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Post-Treatment Processes",
+        "displayTitle": "<h5 class='custom_heading'><b>Post-Treatment Processes</b></h5>",
+        "body": "<p>Post-Procedure processes include the following:</p>",
+        "instruction": "<div class='extra-sectionclass2 no-bg'>To know more about the <b>Post-Procedure Processes</b>, click <a href='course/en/doc/Quick_Reference_Guide.pdf' target='_blank' >here</a>.</div><p><i>Select the <b>(+)</b> icon to find out more.</i></p>",
+        "_items": [
+            {
+                "title": "Post Ablation Confirmation",
+                "body": "<div class='content-left'><ul><li>The Ablation completes automatically.</li> <li>The RF Generator beeps and yellow arrows are displayed when the ablation treatment is completed.</li></ul></div><div class='image-right1'><img src='course/en/images/mod-9/1-img.png' /></div>",
+                "_classes": ""
+			},
+            {
+                "title": "Retract Controls 4-3-2-1",
+                "body": "<div class='content-left'><p>At the completion of the ablation treatment, the following steps must be followed:<ol><li>Retract the Needle Electrodes #4.</li><li>Press Locks and slide #3 towards the Physician to retract the Introducer.</li><li>Press #2 Ablation Knob and slide back to the position closest to the Physician.</li><li>Press #1 and move the Articulation Lever forward to return the IUUS Probe Tip to 0°. </li></ol></p><p>Now, the Treatment Device can be positioned for the next ablation treatment or removed.</p></div><div class='image-right1'><img src='course/en/images/mod-9/2-img.png' /></div><div class='img-part-accordian'><div class='img-content'><img src='course/en/images/mod-9/2-img2.png' /><div class='img-title'><span class='icon-fourth'>Retract Needle Electrodes </span></div></div><div class='img-content'><img src='course/en/images/mod-9/2-img3.png' /><div class='img-title'><span class='icon-three'>Retract Introducer </span></div></div><div class='img-content'><img src='course/en/images/mod-9/2-img4.png' /><div class='img-title'><span class='icon-two'>Retract Ablation knob to home postion</span></div></div><div class='img-content'><img src='course/en/images/mod-9/2-img5.png' /><div class='img-title'><span class='icon-one'>Articulate Lever to Return Tip to 0 degree</span></div></div></div>",
+                "_classes": ""
+			},
+            {
+                "title": "Physician Post Treatment Patient Counseling",
+                "body": "<div class='content-left'><p>Patient should be counseled that they may experience:</p><ul><li>Continued heavy bleeding symptoms for a few months following the procedure before full improvement. </li><li>Shedding of ablated tissue.</li><li>Expulsion of ablated fibroid (low occurrence).</li></ul></div><div class='image-right1'><img src='course/en/images/mod-9/3-img.png' /></div>",
+                "_classes": ""
+			}
+		],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+    "_id": "c-120-01-b",
+    "_parentId": "b-120-01-b",
+    "_classes": "",
+    "_layout": "left",
+    "_type": "component",
+    "_component": "matching",
+    "_attempts": "infinite",
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_canShowModelAnswer": false,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "title": "Check Your Understanding 1",
+    "displayTitle": "<h5 class='custom_heading text-left'>Check Your Understanding 1</h5>",
+    "body": "<p>When the ablation is complete, which Treatment Device Control is used to perform the following actions?</p>",
+    "instruction":"<i>Match the control number with its corresponding image and select <b>Submit</b>.</i>",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+   "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+    },
+    "placeholder": "Select control",
+    "_items": [
+        {
+            "text": "Retract Needle Electrodes",
+            "_options": [
+                {
+                    "text": "Control 1",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 2",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 3",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 4",
+                    "_isCorrect": true
+                }
+            ]
+        },
+        {
+            "text": "Retract Introducer",
+            "_options": [
+                {
+                    "text": "Control 1",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 2",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 3",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Control 4",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        
+        {
+            "text": "Return Ablation Knob to home position",
+            "_options": [
+               {
+                    "text": "Control 1",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 2",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Control 3",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 4",
+                    "_isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Articulate Lever to Return Tip to 0<sup>o</sup>",
+            "_options": [
+                {
+                    "text": "Control 1",
+                    "_isCorrect": true
+                },
+                {
+                    "text": "Control 2",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 3",
+                    "_isCorrect": false
+                },
+                {
+                    "text": "Control 4",
+                    "_isCorrect": false
+                }
+            ]
+        }
+        
+    ]
+  },
+     {
+       "_id": "c-120-01-c",
+        "_parentId": "b-120-01-b",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-9/CYU-Drop-img.png",
+            "small": "course/en/images/mod-9/CYU-Drop-img.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+      {
+        "_id": "c-120-01-d",
+        "_parentId": "b-120-01-c",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 2",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 2</h5><p class='custom-space'>What must be the articulation angle for the IUUS Probe Tip prior to removing from the patient?</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "45 degrees",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "60 degrees",
+                "_shouldBeSelected": false
+			},
+            {
+                "text": "0 degrees",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "15 degrees ",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-120-01-e",
+        "_parentId": "b-120-01-c",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"ffff",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-9/CYU-2.png",
+            "small": "course/en/images/mod-9/CYU-2.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-120-01-f",
+        "_parentId": "b-120-01-d",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "mcqBG",
+        "_layout": "left",
+        "_attempts": "infinite",
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_selectable": 1,
+       "_showCorrectAnswer": true,
+        "title": "Check Your Understanding 3",
+        "displayTitle": "",
+        "body": "<h5 class='custom_heading'>Check Your Understanding 3</h5><p class='custom-space'>The patient should be counseled post-procedure that she may have continued symptoms of heavy bleeding for a few months following the procedure.</p>",
+        "instruction": "<div><i>Choose the correct option(s) and select <b>Submit</b>.</i></div>",
+        "_items": [
+            {
+                "text": "True",
+                "_shouldBeSelected": true
+			},
+            {
+                "text": "False",
+                "_shouldBeSelected": false
+			}
+		],
+         "_feedback": {
+            "correct": "<div class='correct_img'><img src='course/en/images/mod-3/handcorrect.png' alt='' /></div></div><p><b>Correct.</b></p><p>You’re right.</p><p><i>Close this window to continue.</i></p>",
+            "_incorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p><p>If you’d like to go over the section on preparing patients for the procedure, select the following link:</p><a href=''>Prepare Patient</a>",
+                "final": "<div class='correct_img'><img src='course/en/images/mod-3/handIncorrect.png' alt='' /></div></div><p><b>Incorrect.</b></p><p>Close this window and click the <b>Reset</b> button to try again.</p>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	},
+    {
+       "_id": "c-120-01-g",
+        "_parentId": "b-120-01-d",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"ffff",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/mod-9/CYU-3.png",
+            "small": "course/en/images/mod-9/CYU-3.png"
+        },
+            "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+     {
+        "_id": "c-01_12-next",
+        "_parentId": "b-01_12-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+		"_isComplete":true,
+        "_button": {
+            "text": "Go to Next Lesson"
+        },
+        "_navigateTo": "co-55-FM",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+	},
+    {
+        "_id": "c-130-01-a",
+        "_parentId": "b-130-01-a",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Course Summary",
+        "displayTitle": "<h5 class='custom_heading'><b>Course Summary</b></h5>",
+        "body": "<p class='text-center'>Review the important points from this course.</p>",
+        "instruction": "",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "General Information",
+                "body": "<h6>To summarize important points regarding the Sonata® System:</h6> <ul><li>The Sonata Sonography-Guided Transcervical Fibroid Ablation System provides RF ablation of uterine fibroids using a transcervical approach without incisions or uterine distension.</li><li>The Sonata® System is intended for diagnostic intrauterine imaging and transcervical treatment of symptomatic uterine fibroids, including those associated with heavy menstrual bleeding.</li><li>Some considerations for patient selection are number of fibroids, size, and type.</li><li>The Sonata® System was designed to transcervically ablate types 1, 2, 3, 4, and 2-5 (transmural) fibroids and is also capable of partially ablating type 5 and type 6 fibroids.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "System Overview",
+                "body": "<ul><li>The Sonata® System components include: <ul><li>Ultrasound Console (laptop) </li><li>Graphical Guidance System (GGS) User Interface</li><li>RF Generator</li><li>System Cart</li><li>IUUS Probe (reusable)</li><li>RFA Handpiece</li><li>Two Dispersive Electrodes<li>Mouse</li><li>Footswitch</li></li></ul></li><li>The RF Generator is a critical component of the Sonata® System as it delivers the RF energy to ablate fibroids and modulates the power to maintain the desired treatment temperature for the required time.</li><li>The RF Generator connections include Dispersive Electrode Connections, the Footswitch Connection, and the RFA Handpiece Connection.</li><li>The user interface for the Graphical Guidance Software of GGS has many software controls. For e.g., option to enter patient data, set ultrasound presets, capture still images, change/update preferences, and/or indicate the status of the component connections.</li><li>The SMART Guide<sup>TM</sup> is a graphical overlay used in targeting.</li><li>The Ablation Zone and Thermal Safety Border are important features of the SMART Guide<sup>TM</sup>: <ul><li>The Ablation Zone (red inner ellipse) is a two-dimensional representation of the average region of tissue ablation for the selected size.</li><li>The Thermal Safety Border (green outer ellipse) is the distance from the Needle Electrodes at which tissue is safe from potential of thermal damage.</li></ul></li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "IUUS Imaging ",
+                "body": "<p>Ultrasound safety should be practiced:</p><ul><li>The ultrasound procedures should be used for valid reasons and for the shortest necessary period.</li><li>As described in the <strong><i>Sonata Operator’s Manual</i></strong>, minimizing the real-time displayed index values allows the practice of the ALARA principle (exposure of the patient to ultrasound energy at a level that is As Low As Reasonably Achievable).</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+				
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Targeting ",
+                "body": "<p>The goal of the SMART Guide<sup>TM</sup> positioning is to:</p><ul><li>Encompass as much of the fibroid in the Ablation Zone (inner red ellipse), while keeping the Thermal Safety Border (outer green ellipse) within the serosal margin always.</li><li>Perform the Safety Rotations after advancing the Introducer, and then again, after the Needle Electrodes are deployed to confirm the Thermal Safety Border is within the serosal margin in all visible planes.</li><li>If the SMART Guide<sup>TM</sup> is repositioned, perform the safety rotations again.</li><li>Confirm that the Thermal Safety Border is within the serosal margin prior to activating the RF energy, which is necessary for the safety of the patient.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Treatment Device Controls ",
+                "body": "<p>To deploy controls for initial treatment, you must perform each step in the order it is mentioned in the image. The controls will not function if a prior step is not completed.</p><div class='image-section'><img src='course/en/images/mod-10/5img001.png' /></div>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Ablation Procedure ",
+                "body": "<p>To perform an Ablation Procedure, the following is needed:</p><div>Sterile Field containing:</div><ul><li>250 cc Hypotonic fluid</li><li>D & C kit with dilators to 9 mm</li><li>Fenestrated speculum</li></ul><div class='custom-space'>Patient Preparation</div><ul><li>Anesthesia determined by physician</li><li>Deep venous thrombosis (DVT) prophylaxis as suggested per the American College of Obstetricians and Gynecologists (ACOG) guidelines </li><li>All jewelry and piercings removed</li></ul><div class='custom-space'>To start the Ablation Procedure, the Operator must:</div><ul><li> Prepare the Treatment Device</li><li>Inspect the Treatment Device</li><li>Reset the Treatment Device</li><li>Dilate the cervix to 27 Fr</li><li>Insert the Treatment Device</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Post-Treatment Procedure ",
+                "body": "<p>The post-treatment process includes the following:</p><ul><li>Retract Controls 4-3-2-1.</li><li>Disconnect patient from system (Staff).</li><li>Pre-Clean the IUUS Probe (Staff).</li><li>Dispose of RFA Handpiece (Staff).</li><li>Wipe down cart, footswitch, and ultrasound system and store cables.</li><li>Counsel Patient Post-Treatment.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            },
+            {
+                "title": "Target, Perform Safety Rotations, and Activate RF Energy",
+                "body": "<p>To target, perform safety rotations, and activate RF energy:</p><ul><li>Locate the fibroid by performing a survey IUUS scan and identify the fibroid to be treated.</li><li>Articulate the IUUS tip and align the Introducer Guide to the widest portion of the fibroid.</li><li>Advance Introducer.</li><li>Perform a safety rotation to verify the location of the Thermal Safety Border and the serosa.</li><li>Deploy the Needle Electrodes.</li><li>Perform the safety rotation to verify the location of the Thermal Safety Border and the serosa.</li><li>Activate the RF generator to treat the targeted area.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/mod-10/img-11.png",
+                    "alt": ""
+                },
+				"bigImage": {
+                    "src": "<div class='big_img'><img src='course/en/images/mod-10/img-11.png' alt='' /></div>"
+         
+                },
+                "strapline": "Select the '+' icon."
+            }
+        ],
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    
+     {
+        "_id": "c-01_13-next",
+        "_parentId": "b-01_13-next",
+        "_type": "component",
+        "_component": "go-next",
+        "_layout": "full",
+        "_button": {
+            "text": "Exit"
+        },
+        "_navigateTo": "menu",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+	}
+
+]

@@ -1,0 +1,77 @@
+.floatingmenu {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	display: none;
+	margin: 10px;
+	border-radius: 5px;
+	line-height: 0;
+	box-shadow: 1px 1px 3px #333;
+	background-color: lighten(#333, 20%);
+	background-color: fadeout(#333, 20%);
+}
+
+.floatingmenu-inner {
+	 background: url("../../course/en/images/menu-images/dotted-line.png") no-repeat;
+	 background-position: 7px -33px;
+	margin: 10px;
+	//border: 1px solid #666;
+	//background-color: #333;
+	position: fixed;
+    right: 40px;
+    top: 120px;
+    width: 16px;
+}
+
+.floatingmenu-inner.show-floatingMenu {
+    display:block;
+}
+
+.floatingmenu-inner.hide-floatingMenu {
+    display: none;
+}
+
+.floatingmenu-inner .floatingMenuButton {
+    margin-bottom: -11px;
+    background: url("../../course/en/images/menu-images/pink-dot.png") no-repeat;
+    margin-top: 24px;
+}
+
+.floatingmenu-inner .floatingMenuButtonVisited {
+    margin-bottom: -11px;
+    background: url("../../course/en/images/menu-images/green-dot.png") no-repeat;
+    margin-top: 24px;
+
+}
+
+.floatingmenu-inner .completedState{
+	background: #a4c629;
+	border: 3px solid #ffffff;
+}
+.floatingmenu-inner .activePageStatus{
+	 margin-bottom: -11px;
+    background: url("../../course/en/images/menu-images/Small-dot-purple.png") no-repeat;
+    margin-top: 24px;
+}
+
+button:hover.floatingMenuButton
+{
+	background-color: transparent !important;
+   border-color: transparent !important;	
+	
+}
+ 
+
+
+.floatingmenu-icon {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	vertical-align: middle;
+	img {
+		position: absolute;
+		visibility: hidden;
+		opacity: 0;
+		transition: visibility 0.2s, opacity 0.2s;
+	}
+}

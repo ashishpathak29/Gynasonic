@@ -1,0 +1,853 @@
+[
+    {
+        "_id": "b-05",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_parallaxbgSwitcher": {
+            "src": "course/en/images/mod-2/5-section-bg.png",
+            "mobileSrc": "course/en/images/mod-2/5-section-bg.png"
+        },
+        "_trackingId": 135
+    },
+    {
+        "_id": "b-01_01-next",
+        "_parentId": "a-05",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 137
+    },
+    {
+        "_id": "b-10-01",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_isComplete": true,
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 211
+    },
+    {
+        "_id": "b-10-02",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 219
+    },
+    {
+        "_id": "b-10-03",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 220
+    },
+    {
+        "_id": "b-10-04",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 221
+    },
+    {
+        "_id": "b-10-04-a",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 222
+    },
+    {
+        "_id": "b-10-04-b",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 223
+    },
+    {
+        "_id": "b-10-04-c",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 224
+    },
+    {
+        "_id": "b-10-04-d",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "_showGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 225
+    },
+    {
+        "_id": "b-01_02-next",
+        "_parentId": "a-10",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 22
+    },
+    {
+        "_id": "b-10-05-a",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 217
+    },
+    {
+        "_id": "b-10-05-b",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 226
+    },
+    {
+        "_id": "b-10-05-c",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 227
+    },
+    {
+        "_id": "b-10-05-d",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 228
+    },
+    {
+        "_id": "b-10-05-e",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 229
+    },
+    {
+        "_id": "b-10-05-f",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 230
+    },
+    {
+        "_id": "b-10-05-g",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 231
+    },
+    {
+        "_id": "b-10-05-h",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 232
+    },
+    {
+        "_id": "b-10-05-i",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 233
+    },
+    {
+        "_id": "b-10-05-j",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 234
+    },
+    {
+        "_id": "b-10-05-k",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "_showGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 235
+    },
+    {
+        "_id": "b-01_03-next",
+        "_parentId": "a-15",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 125
+    },
+    {
+        "_id": "b-70-01-a",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 236
+    },
+    {
+        "_id": "b-70-01-b",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 237
+    },
+    {
+        "_id": "b-70-01-c",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 238
+    },
+    {
+        "_id": "b-70-01-d",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "_showGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 239
+    },
+    {
+        "_id": "b-01_05-next",
+        "_parentId": "a-25",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 129
+    },
+    {
+        "_id": "b-70-01-e",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 240
+    },
+    {
+        "_id": "b-70-01-f",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "_fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 241
+    },
+    {
+        "_id": "b-70-01-g",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 242
+    },
+    {
+        "_id": "b-70-01-h",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 243
+    },
+    {
+        "_id": "b-70-01-i",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "_showGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 244
+    },
+    {
+        "_id": "b-01_08-next",
+        "_parentId": "a-40",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 63
+    },
+    {
+        "_id": "b-20-01-a",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 245
+    },
+    {
+        "_id": "b-20-01-b",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "<div><img src='course/en/images/mod-6/1.png'/></div>",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 246
+    },
+    {
+        "_id": "b-20-01-c",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "<div><img src='course/en/images/mod-6/2.png'/></div>",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 247
+    },
+    {
+        "_id": "b-20-01-d",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "<div><img src='course/en/images/mod-6/3.png'/></div>",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 248
+    },
+    {
+        "_id": "b-20-01-e",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "<div><img src='course/en/images/mod-6/4.png'/></div>",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 249
+    },
+    {
+        "_id": "b-20-01-f",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "_showGotoNextButon _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 250
+    },
+    {
+        "_id": "b-01_09-next",
+        "_parentId": "a-45",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 205
+    },
+    {
+        "_id": "b-100-01",
+        "_parentId": "a-50",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 206
+    },
+    {
+        "_id": "b-01_10-next",
+        "_parentId": "a-50",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 207
+    },
+    {
+        "_id": "b-110-01-a",
+        "_parentId": "a-55",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 208
+    },
+    {
+        "_id": "b-110-01-b",
+        "_parentId": "a-55",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 252
+    },
+    {
+        "_id": "b-110-01-c",
+        "_parentId": "a-55",
+        "_type": "block",
+        "_classes": "_showGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 254
+    },
+    {
+        "_id": "b-01_11-next",
+        "_parentId": "a-55",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 209
+    },
+    {
+        "_id": "b-120-01-a",
+        "_parentId": "a-60",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 213
+    },
+    {
+        "_id": "b-120-01-b",
+        "_parentId": "a-60",
+        "_type": "block",
+        "_classes": "_fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 253
+    },
+    {
+        "_id": "b-120-01-c",
+        "_parentId": "a-60",
+        "_type": "block",
+        "_classes": "_hideGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 255
+    },
+    {
+        "_id": "b-120-01-d",
+        "_parentId": "a-60",
+        "_type": "block",
+        "_classes": "_showGotoNextButon MCQSection _fButtondisable",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 256
+    },
+    {
+        "_id": "b-01_12-next",
+        "_parentId": "a-60",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 214
+    },
+    {
+        "_id": "b-130-01-a",
+        "_parentId": "a-65",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-10",
+        "displayTitle": "",
+        "body": "",
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_button": {
+                "_isEnabled": true,
+                "text": ""
+            }
+        },
+        "_trackingId": 215
+    },
+    {
+        "_id": "b-01_13-next",
+        "_parentId": "a-65",
+        "_type": "block",
+        "_classes": "go-next-block custom_go-next",
+        "_trackingId": 216
+    }
+]

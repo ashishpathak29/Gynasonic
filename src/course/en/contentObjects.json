@@ -1,0 +1,237 @@
+[
+    {
+        "_id": "co-05-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "content-objectclass",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>1.Course Introduction and Objectives</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+        "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+         "_parallaxbgSwitcher": {
+        "_isActive":false,
+        "_bgoptions": "parallax"
+    },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }   
+    },
+   {
+        "_id": "co-10-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "content-objectclass",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>2.General<br> Information</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+       "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_parallaxbgSwitcher": {
+        "_isActive":false,
+        "_bgoptions": "parallax"
+    },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+  },
+    
+   {
+        "_id": "co-15-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "content-objectclass",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>3.System<br> Overview</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+       "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+    
+     {
+        "_id": "co-25-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "content-objectclass",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>4.Intrauterine Ultrasound Imaging</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+         "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+     {
+    
+        "_id": "co-30-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>5.Ablation<br> Targeting</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+         "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+    {
+        "_id": "co-35-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>6.Treatment Device Controls </h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+        "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+    {
+        "_id": "co-40-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>7.Room, System, and Patient Set Up</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+        "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+    {
+        "_id": "co-45-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>8.Ablation<br> Procedure</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+        "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+         "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+     {
+        "_id": "co-50-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>9.Post-Treatment Processes</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+         "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+        "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  },
+    {
+        "_id": "co-55-FM",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "title": "",
+        "displayTitle": "",
+        "pageBody": "",
+        "body": "<div class='box-content'><span class='clock'>5 minutes</span><h4>10.Course<br> Summary</h4></div>",
+        "linkText": "View",
+        "durationLabel": "Duration:",
+        "unlockCondition": {
+        "_comment": "ONLY contentObject ID's",
+         "complete": []
+        },
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_backgroundSwitcher": {
+            "_isActive": false
+        }
+  }
+]

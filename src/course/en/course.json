@@ -1,0 +1,304 @@
+{
+    "_globals": {
+        "_components": {
+            "_accordion": {
+                "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+            },
+            "_flipcard": {
+                "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+            },
+            "_gmcq": {
+                "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
+            },
+            "_graphic": {
+                "ariaRegion": ""
+            },
+            "_hotgraphic": {
+                "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+                "ariaPoupupLabel": "Hotgraphic popup",
+                "ariaPopupLabel": "Hotgraphic popup"
+            },
+            "_matching": {
+                "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+            },
+            "_mcq": {
+                "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+            },
+            "_yesno-table-v3": {
+                "ariaRegion": "This component is a Yes or No table. You have selected an option select the submit button below"
+            },
+            "_media": {
+                "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+                "transcriptButton": "Alternatively you can select the link below for the transcript."
+            },
+            "_narrative": {
+                "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+            },
+            "_objectMatching": {
+                "ariaRegion": "This question component requires you to select the matching option. When you have selected your answers select the submit button."
+            },
+            "_slider": {
+                "ariaRegion": "This component requires you to answer the question by selecting the relevant value. After selecting a value select the submit button below."
+            },
+            "_text": {
+                "ariaRegion": ""
+            },
+            "_textinput": {
+                "ariaRegion": "This question component requires you to input your answer in the textbox provided. When you have answered the question select the submit button below."
+            }
+        },
+        "_extensions": {
+            "_pageLevelProgress": {
+                "pageLevelProgress": "Page sections",
+                "pageLevelProgressIndicatorBar": "You have completed ",
+                "pageLevelProgressMenuBar": "You have completed ",
+                "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+                "optionalContent": "Optional Content"
+            }
+        },
+        "_menu": {},
+        "_accessibility": {
+            "accessibilityToggleTextOn": "Turn accessibility on?",
+            "accessibilityToggleTextOff": "Turn accessibility off?",
+            "_accessibilityInstructions": {
+                "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+                "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+                "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
+            },
+            "_ariaLabels": {
+                "navigation": "Course navigation bar",
+                "menuLoaded": "Menu Loaded.",
+                "menu": "Menu",
+                "page": "Page",
+                "pageLoaded": "Page Loaded.",
+                "pageEnd": "You have reached the end of the page.",
+                "previous": "Prev",
+                "navigationBack": "Navigate back",
+                "navigationDrawer": "Resources",
+                "close": "Close",
+                "closeDrawer": "Close Drawer",
+                "closeResources": "Close resources",
+                "resourcesEnd": "You have reached the end of the list of resources.",
+                "drawerBack": "Back to drawer",
+                "drawer": "Top of side drawer",
+                "closePopup": "Close popup",
+                "next": "Next",
+                "done": "Done",
+                "complete": "Completed",
+                "incomplete": "Incomplete",
+                "incorrect": "Incorrect",
+                "correct": "Correct",
+                "locked": "Locked",
+                "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+                "feedbackPopUp": "Popup opened.",
+                "menuBack": "Back to menu",
+                "visited": "Visited"
+            }
+        }
+    },
+    "_id": "course",
+    "_type": "course",
+    "title": "SONATA SYSTEM OPERATOR AND STAFF TRAINING",
+    "displayTitle": "<div class='logo'><img src='course/en/images/menu-images/logo-0.png' /></div><h2>SONATA SYSTEM<br/> OPERATOR AND STAFF TRAINING</h2>",
+    "description": "",
+    "body": "",
+    "_buttons": {
+        "_submit": {
+            "buttonText": "Submit",
+            "ariaLabel": "Submit"
+        },
+        "_reset": {
+            "buttonText": "Reset",
+            "ariaLabel": "Reset"
+        },
+        "_showCorrectAnswer": {
+            "buttonText": "Correct Answer",
+            "ariaLabel": "Correct Answer"
+        },
+        "_hideCorrectAnswer": {
+            "buttonText": "My Answer",
+            "ariaLabel": "My Answer"
+        },
+        "_showFeedback": {
+            "buttonText": "Show Feedback",
+            "ariaLabel": "Show Feedback"
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt",
+        "disabledAriaLabel": "This button is disabled at the moment."
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_altText": "of components completed on this page."
+    },
+    "_resources": {
+        "_isEnabled": true,
+        "title": "Resources",
+        "description": "View resources for this course by clicking here.",
+        "_filterButtons": {},
+        "_filterAria": {},
+        "itemAriaExternal": "This content will open in a new window",
+        "_resourcesItems": [
+            {
+                "_type": "document",
+                "title": "Sonata Operator’s Manual",
+                "description": "",
+                "_link": "course/en/doc/Sonata_Operator’s_Manual.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Quick Reference Guide",
+                "description": "",
+                "_link": "course/en/doc/Quick_Reference_Guide.pptx"
+            },
+            {
+                "_type": "document",
+                "title": "Graphical Guidance Software (GGS) User Interface",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Graphical_Guidance_Software_(GGS)_User_Interface_Resources_1_2_0.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Preferences Menu",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Preferences_Menu_Resources_1_2_0.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Setup the Procedure Room",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Setup_the_Procedure_Room_Resources_1_2_0.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Prepare the Patient",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Prepare_the_Patient_Resources_1_2_0.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Set up the System",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Set_up_the_System_Resources_1_2_0.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Prepare for Procedure",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Prepare_for_Procedure_Resources_1_2_0.pdf"
+            },
+            {
+                "_type": "document",
+                "title": "Post-Treatment Processes",
+                "description": "",
+                "_link": "course/en/doc/GYN_22703_Post-Treatment Processes_Resources_1_2_0.pdf"
+            }
+        ]
+    },
+    "_assessment": {
+        "_postTotalScoreToLms": true,
+        "_isPercentageBased": true,
+        "_scoreToPass": 80
+    },
+    "_glossary": {
+        "_isEnabled": false,
+        "title": "Glossary",
+        "description": "Click here to view glossary for this course",
+        "searchPlaceholder": "Search",
+        "searchWithInDescriptionLabel": "Search within Description",
+        "itemNotFoundMessage": "Sorry! No results to display",
+        "_glossaryItems": [
+            {
+                "term": "",
+                "description": ""
+            }
+        ]
+    },
+    "_bookmarking": {
+        "_isEnabled": true,
+        "_level": "block",
+        "title": "Bookmarking",
+        "body": "Would you like to continue where you left off?",
+        "_buttons": {
+            "yes": "Yes",
+            "no": "No"
+        }
+    },
+    "_certificate": {
+        "_isEnabled": false,
+        "openCertificateOnComplete": false,
+        "headingText": "",
+        "boxText": "",
+        "boxTextContinued": "",
+        "courseTitle": "",
+        "courseTitle_type": {
+            "standalone": "",
+            "online": ""
+        },
+        "courseTitle_lang": "",
+        "labelUserId": "Staff ID: ",
+        "labelScore": "",
+        "extraText": "",
+        "dateFormat": " ^o^n d F Y",
+        "dateFormat_comment": "Following letters needs to be escaped with ^ character: dDjlNSwzWFmMntLoYyaABgGhHisueTIOPZcrU",
+        "dateFormatOptions": {
+            "monthNames": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ],
+            "monthNamesAbbr": [
+                "Jan",
+                "Feb",
+                "Mar",
+                "Apr",
+                "May",
+                "Jun",
+                "Jul",
+                "Aug",
+                "Sep",
+                "Oct",
+                "Nov",
+                "Dec"
+            ],
+            "dayNames": [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "dayNamesAbbr": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thur",
+                "Fri",
+                "Sat"
+            ]
+        },
+        "labelPrintButton": "Print Certificate",
+        "labelCloseButton": "Close",
+        "input": {
+            "body": "",
+            "labelName": "",
+            "labelSurname": "",
+            "labelUserId": "",
+            "labelButton": "",
+            "labelCloseButton": ""
+        }
+    },
+    "_latestTrackingId": 257
+}
